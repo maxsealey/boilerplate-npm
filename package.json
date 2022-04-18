@@ -1,4 +1,14 @@
 {
+	"author": "Max Sealey",
+	"description": "A project that does something awesome",
+	"keywords": [
+		"descriptive",
+		"related",
+		"words",
+		"freecodecamp"
+	],
+  "license": "MIT",
+  "version": "1.2.0",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
@@ -10,6 +20,5 @@
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
-	},
-	"author": "Max Sealey"
+	}
 }
